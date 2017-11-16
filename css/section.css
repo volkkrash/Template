@@ -2,15 +2,10 @@
   padding-top: 50px;
   padding-bottom: 50px;
 }
-.container {
-	width: 980px;
-	margin: 0 auto;
-}
-
 .flex-row {
   display: flex;
 }
-.flew-column {
+.flex-column {
   display: flex;
   flex-direction: column;
 }
